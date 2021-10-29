@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Dmitry
 
-<!--
-**dmonay/dmonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub dmonay](https://img.shields.io/github/followers/dmonay?label=follow&style=social)](https://github.com/dmonay)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dmonay&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![repo stats](https://github-readme-stats.vercel.app/api?username=dmonay&theme=dark&show_icons=true&line_height=27)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmonay&theme=dark)](https://git.io/streak-stats)
+
+
+### Truisms
+
+I live life in accord with the Boy Scout Rule - leave the world in a better place than you found it in.
+
+I like building software, teams, and products from the ground up.
+
+History geek.
+
+Grammar enthusiast.
+
+I will deliver the Knicks from James Dolan and bring a championship to this city before I die.
