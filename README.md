@@ -6,9 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmonay&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![repo stats](https://github-readme-stats.vercel.app/api?username=dmonay&theme=dark&show_icons=true&line_height=27)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmonay&theme=dark)](https://git.io/streak-stats)
 
 
